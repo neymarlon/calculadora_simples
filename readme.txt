@@ -1,0 +1,1 @@
+Fiz essa calculadora simples usando JavaScript, CSS e HTML através do Curso Em Vídeo do Youtube.
